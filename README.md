@@ -1,2 +1,3 @@
 # hello_world
-My first repository
+Hi everyone!
+I'm a student and I love Statistics.
